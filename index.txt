@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <title>Resume</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name= "keywords" content="software engineer,wrood fawaz, Developer">
+        <meta name ="description" content="Assignment #1: Creating a Personal Online Resume ">
+        
+        
+    </head>
+    
+    
+    <body>
+      
+        <header id="header">    
+            <h1>WROOD FAWAZ</h1>
+            <h4 CLASS="SE"> SOFTWARE ENGINEER</h4>
+            <img id ="logo" src="logo.png" alt="my logo"/>
+        </header>
+        
+        <section id="persInfo">
+		<p> Personal Informaiton : </p>
+            	<p>name : Wrood Fawaz Allebdi </p>
+
+
+		<div class="edu">
+			<p> Education : </p>
+			<ul>
+				<li>I am currently an eighth-semester software engineering student at the University of Jeddah</li>
+				<li>High school graduate 2020</li>
+				
+			</ul>
+			<p>course : </p>
+			<ul>
+				<li>CCNA 200-301 in Udemy</li>
+				<li>master git and github in Udemy </li>
+				<li>java 1&2  </li>
+				<li> flutter 101 at satr website </li>
+				<li> dart 101 at satr website </li>
+			</ul>
+		</div>		
+			
+        </section>
+
+        <section id = "project">
+		<p> project : </p>
+		<ul>
+			<li> Employee record management system  <a class="PLink" href="C:\Users\w\Desktop\Assignment #1WEB\DataStProject.zip"> 			</li>
+			<li> NAILS SPA management system <a href="C:\Users\w\Desktop\Assignment #1WEB\nailSpaApplication.zip"> </li>
+			<li> Cinema management Database system <a href= " "C:\Users\w\Desktop\Assignment #1WEB\CinemaDB_(8)[1].docx"> </li>
+			<li>Event Planner and Booking App is a smartphone application made to make the process of bookings and arranging events
+simpler. <a href= "https://github.com/salmazabeedi/eventspot"</li>
+			
+        	<ul>                         <!-- end of my project -->
+
+
+<section>
+        
+    </body>
+    
+    
+</html>
