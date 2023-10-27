@@ -8,28 +8,40 @@
 
 
 @media screen and (max-width: 786px) {
-  .parent {
-display:block;
-  }
-  body {
-    background-color: hsl(249, 40%, 67%);
-padding:10px;
-  }
- }
 
-@media screen and (max-width:576px){
     .parent {
         display: flex;
         flex-direction: column;
         flex-wrap:wrap;
+        justify-content: left;
+    }
+    body {
+        background-color: hsl(249, 40%, 67%);
+        padding:0px;
     }
 
+    #logo{
+        width: 100%;
+        height: auto;
+
+    }
+    #header{
+    }
+
+
+}
+
+@media screen and (max-width:576px){
+
+    .parent {
+        display:inline-block;
+    }
     body{
         background-color:hsl(249, 40%, 67%);
     }
     .item {
-        padding: 20px;
-        margin:15px;
+        padding: 0px;
+        margin:1px;
         text-align: center;
         border-right: 0px solid black;
 
